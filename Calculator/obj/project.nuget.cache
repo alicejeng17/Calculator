@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7zd3hVLi4PQhl223kz+YMoL89/c2zv3TLZHYjrR2MRzpDKdPhn6o4oqntLkXx5oe2/iNoatQk9nxoWGY7FtdA==",
+  "success": true,
+  "projectFilePath": "D:\\ASUS_PJ\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice1_jeng\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net5.0-windows7.0' 還原了套件 'ncalc 1.3.8'。此套件與您的專案並非完全相容。",
+      "libraryId": "ncalc",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
